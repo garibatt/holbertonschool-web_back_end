@@ -1,0 +1,2 @@
+// this is comment 
+db.school.find({ name: "Holberton school" })

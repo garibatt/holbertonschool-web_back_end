@@ -1,0 +1,2 @@
+// this si commnet
+db.school.find().count()
